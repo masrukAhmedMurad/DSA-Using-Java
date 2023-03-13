@@ -1,16 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package dsa.using.java;
+//Binary Tree code including pre,post, inorder traversal, level order, node count, sum count, height count method. 
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-/**
- *
- * @author Asus
- */
+
 public class Tree {
     
     //Node class
