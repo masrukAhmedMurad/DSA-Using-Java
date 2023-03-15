@@ -5,7 +5,7 @@ package dsa.using.java;
  *
  * @author M. A. Murad
  */
-public class StackDsa {
+public class StackUsingLinkedList {
     
 //Node class    
     private static class Node{
