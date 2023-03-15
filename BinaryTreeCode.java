@@ -9,7 +9,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 
-public class Tree {
+public class BinaryTreeCode {
     
     //Node class
     static class Node{
